@@ -33,5 +33,5 @@ Description:
 
 Usage:
 ==================
-This program can be used in developing a search Engine. Whenever user types in query say "scandals". <br/> it looks into the index files and return the document id. and corresponding document can be displayed.
+This program can be used in developing a search Engine. Whenever user types in query say "India". <br/> it looks into the index files and return the document id and corresponding document can be displayed.
 </pre>
